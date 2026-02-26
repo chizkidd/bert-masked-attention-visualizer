@@ -1,5 +1,5 @@
 # Masked Language Model (`Bert`) Attention Head Visualizer
->_This repository focused on visualizing and analyzing BERT self-attention heads during masked language modeling._
+>_This repository is focused on visualizing and analyzing BERT self-attention heads during masked language modeling._
 
 <br>
 
